@@ -1,6 +1,6 @@
-package Assg2;
 
-import java.io.StringReader;
+
+
 import java.util.Scanner;
 
 public class Prog1{
